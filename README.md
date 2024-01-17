@@ -26,3 +26,22 @@ npm run start:dev
 npm run build
 # commit and push the generated dist folder
 ```
+
+## Vercel URL
+
+https://irys-sdk-api-typescript.vercel.app
+
+## APIs
+
+### GET /api/healthcheck
+
+/api/healthcheck
+![Healthcheck](attachments/healthcheck.png)
+
+### POST /api/upload
+
+![Upload](attachments/upload.png)
+
+### GET /api/query/irys/`<txid>`
+
+![Query](attachments/query.png)
