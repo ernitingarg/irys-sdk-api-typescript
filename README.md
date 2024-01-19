@@ -14,6 +14,8 @@ npm install --save-dev typescript @types/express @types/multer ts-node ts-node-d
 
 ## Run locally
 
+Note: Make sure to set environment variable 'PRIVATE_KEY' with wallet private key.
+
 ```
 npm run start
 OR
